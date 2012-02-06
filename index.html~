@@ -23,7 +23,7 @@
             Videolinks<br> 
             <textarea id="hi_links" rows="20" wrap="off"></textarea>
             <div class="cmd">
-                <input onclick="cmd.check();"  type="button" value="&nbsp; check &nbsp;" />&nbsp;
+                <input onclick="cmd.check();"  type="button" value="&nbsp; check &nbsp;" />
                 <input onclick="cmd.check(true);" type="button" value="&nbsp; create &nbsp;" />                
             </div>
         </div>
@@ -51,7 +51,7 @@
                 <div class="hint">Videolinks</div>
                 <div><textarea id="links" wrap="off" title="Videolinks from Youtube, Vimeo, Veoh..."></textarea></div>
                 <div class="cmd">
-                    <input type="button" value="&nbsp; check &nbsp;" onclick="cmd.check();"/>&nbsp;
+                    <input type="button" value="&nbsp; check &nbsp;" onclick="cmd.check();"/>
                     <input type="button" value="&nbsp; create &nbsp;" onclick="cmd.check(true);" />
                 </div>                
             </div>
